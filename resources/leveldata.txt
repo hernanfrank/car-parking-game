@@ -1,0 +1,2 @@
+%00%1450%1250%1390%105%resources/sprites/bgw.png%resources/sprites/parking.png%
+%0180%420%520%361%1560%resources/sprites/bgwlv2.png%resources/sprites/parkinglv2.png%
